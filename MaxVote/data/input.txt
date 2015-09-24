@@ -1,0 +1,10 @@
+Bao 20
+Kaylee 20
+Bao 15
+Tori 14
+Xuan 2
+Xuan 5
+Loan 10
+Hue 200
+Loan 100
+Hue 100
