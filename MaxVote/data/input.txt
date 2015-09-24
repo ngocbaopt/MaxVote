@@ -9,3 +9,4 @@ Hue 200
 Loan 100
 Hue 100
 Bao 11
+Bao 2
